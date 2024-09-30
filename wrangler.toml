@@ -18,7 +18,4 @@ custom_domain = true
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "2754f9e5-70ac-453b-8026-56d529c4c2e3,
-062adc51-7b7e-48b4-922f-824ac337c610,
-4f8a2705-4fda-4738-9c1b-e40e1fbd1536,
-fe1f97c2-9b5c-4c52-966f-fc20afee61ba"
+UUID = "2754f9e5-70ac-453b-8026-56d529c4c2e3,062adc51-7b7e-48b4-922f-824ac337c610,4f8a2705-4fda-4738-9c1b-e40e1fbd1536,fe1f97c2-9b5c-4c52-966f-fc20afee61ba"
