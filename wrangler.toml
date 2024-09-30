@@ -1,14 +1,14 @@
-name = "cf-worker-ws-dev" # todo
+name = "cfw" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
-compatibility_date = "2023-05-26"
+compatibility_date = "2024-09-30"
 [[routes]]
-pattern = "reyre-wrt.biz.id"
+pattern = "1.test.cforme.cloudns.ch"
 custom_domain = true
 [[routes]]
-pattern = "edge.skype.com.reyre-wrt.biz.id"
+pattern = "2.test.cforme.cloudns.ch"
 custom_domain = true
 
 [vars]
@@ -18,4 +18,7 @@ custom_domain = true
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "1b6c1745-992e-4aac-8685-266c090e50ea,89b64978-6244-4bf3-bf64-67ade4ce5c8f,d342d11e-d424-4583-b36e-524ab1f0afa4,49379c4f-2e80-4c17-bff6-ef13bd1af934"
+UUID = "2754f9e5-70ac-453b-8026-56d529c4c2e3
+062adc51-7b7e-48b4-922f-824ac337c610
+4f8a2705-4fda-4738-9c1b-e40e1fbd1536
+fe1f97c2-9b5c-4c52-966f-fc20afee61ba"
